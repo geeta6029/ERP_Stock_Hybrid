@@ -1,6 +1,7 @@
 package DriverFactory;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
@@ -15,6 +16,7 @@ public class DriverScript {
 	ExtentReports report;
 	ExtentTest test;
 
+	@Test
 	public void ERP_Account() throws Throwable
 
 	{

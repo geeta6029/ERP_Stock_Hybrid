@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62503" started-at="2020-01-07T12:30:58Z" finished-at="2020-01-07T12:32:00Z">
+  <suite name="Suite" duration-ms="73228" started-at="2020-01-09T12:41:22Z" finished-at="2020-01-09T12:42:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62503" started-at="2020-01-07T12:30:58Z" finished-at="2020-01-07T12:32:00Z">
-      <class name="DriverFactory.AppTest">
-        <test-method status="PASS" signature="startTest()[pri:0, instance:DriverFactory.AppTest@1b604f19]" name="startTest" duration-ms="62484" started-at="2020-01-07T18:00:58Z" finished-at="2020-01-07T18:02:00Z">
+    <test name="Test" duration-ms="73228" started-at="2020-01-09T12:41:22Z" finished-at="2020-01-09T12:42:36Z">
+      <class name="DriverFactory.DriverScript">
+        <test-method status="PASS" signature="ERP_Account()[pri:0, instance:DriverFactory.DriverScript@2fc14f68]" name="ERP_Account" duration-ms="73210" started-at="2020-01-09T18:11:22Z" finished-at="2020-01-09T18:12:36Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startTest -->
-      </class> <!-- DriverFactory.AppTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- ERP_Account -->
+      </class> <!-- DriverFactory.DriverScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
